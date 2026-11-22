@@ -44,4 +44,11 @@
 
 ---
 
-> ⚠️ **Lưu ý**: Việc tự động hóa bằng tài khoản người dùng có thể vi phạm Điều khoản dịch vụ (ToS) của Discord. Hãy bật **Safe Mode**, dùng **Proxy** riêng nếu chạy nhiều tài khoản và không chia sẻ file vault / token cho người khác.
+## ⚖️ Miễn trừ trách nhiệm (Disclaimer)
+
+- Phần mềm này được cung cấp theo nguyên trạng (**"AS IS"**) cho mục đích nghiên cứu, học tập và tự động hóa cá nhân; không có bất kỳ cam kết hay bảo đảm nào về tính ổn định liên tục trước các thay đổi từ phía Discord.
+- **Không liên kết chính thức**: **DTrix Discord Auto Quests (DTrix-DAQ)** là công cụ độc lập, không thuộc, không được tài trợ hay xác nhận bởi **Discord Inc.**
+- **Rủi ro Điều khoản dịch vụ (ToS)**: Việc sử dụng công cụ tự động hóa bằng tài khoản người dùng có thể vi phạm [Discord Terms of Service](https://discord.com/terms). Các tính năng Safe Mode / Stealth / chống quét chỉ giúp giảm dấu hiệu bất thường, **không đảm bảo 100% tránh bị giới hạn tính năng, tạm khóa hoặc khóa vĩnh viễn tài khoản**.
+- **Trách nhiệm người dùng**: Người dùng tự chịu toàn bộ rủi ro khi tải về, nhập token/quét QR, sử dụng proxy và vận hành phần mềm. Tác giả và bên phân phối không chịu trách nhiệm đối với bất kỳ tổn thất dữ liệu, khóa tài khoản hay thiệt hại trực tiếp/gián tiếp nào phát sinh.
+- **Bảo mật dữ liệu**: Hãy bật **Safe Mode**, dùng **Proxy** riêng nếu chạy nhiều tài khoản và tuyệt đối không chia sẻ token, proxy credentials hoặc file `vault.json` cho người khác.
+
