@@ -12,7 +12,7 @@
 - **File chạy trực tiếp**: [`Resource Monitor 2.1.0.exe`](https://github.com/dat1799/DTrix-DAQ/raw/main/Resource%20Monitor%202.1.0.exe) *(~75.4 MB)*
 - **SHA-256**: `DDEFDB759D83BD5C95AEAB0931FB42CD155B27C78E3AADBE67E080D128CEEA9D`
 
-> *Lưu ý: File được đặt tên trung tính (`Resource Monitor 2.1.0.exe`) và tích hợp sẵn lớp làm cứng/chống dịch ngược (`esbuild` + `obfuscation` + khóa DevTools) nhằm hạn chế lộ dấu vết tiến trình trên Windows.*
+> *Lưu ý: File được đặt tên trung tính (`Resource Monitor 2.1.0.exe`) và tích hợp sẵn lớp làm cứng/chống dịch ngược nhằm hạn chế lộ dấu vết tiến trình trên Windows.*
 
 ---
 
